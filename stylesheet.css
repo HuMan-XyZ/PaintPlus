@@ -1,0 +1,29 @@
+.body-background {
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-position: center;
+
+}
+
+#title {
+    font-family: 'Cairo', sans-serif;
+    font-weight: 650;
+    color: #04042b;
+}
+
+#paintarea {
+    background-color: white;
+    border-color: black;
+    border-style: ridge ;
+    border-radius: 8px;
+    border-width: 4.5px;
+    
+}
+
+#clear {
+    background-color: slateblue;
+    border: none;
+    color: white;
+    padding: 10px 42px;
+    font-size: 16px;
+}
